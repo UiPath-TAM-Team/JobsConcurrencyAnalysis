@@ -12,7 +12,7 @@ pip install jupyterlab
 
 #then for any notebook check the import statements at the top and just install the required packages
 #i.e for Find Max Concurrency For Each Machine.ipynb we need the following
-pip install matplotlib.pyplot 
-pip install numpy 
-pip install pandas 
-pip install plotly
+#pip install matplotlib.pyplot 
+#pip install numpy 
+#pip install pandas 
+#pip install plotly
